@@ -1,7 +1,7 @@
 # Hello GIT Github
 
 # H1
-*Test*
+**Test**
 __Test__
 ## H2
 ### H3
